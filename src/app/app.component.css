@@ -7,8 +7,11 @@
 }
 
 #dashboard {
+  font-family: 'Source Sans Pro', sans-serif;
   margin-top: 60px;
   color: #f7fff7;
+  background-color: #1C2228;
+  height: 100%;
 }
 
 .navbar {
